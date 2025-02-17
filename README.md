@@ -1,4 +1,4 @@
-# Python Socket-Based Calculator
+# Operations Through Python Socket Module
 
 ## Overview
 This repository contains a simple socket-based client-server calculator application. The server listens for incoming client connections and performs basic arithmetic operations (`add`, `subtract`, `multiply`, `divide`) based on client requests. Clients can also request to change operand values and receive updated results.
