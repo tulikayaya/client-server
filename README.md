@@ -112,9 +112,6 @@ Enter change request (e.g., 'change x to 8'): change x to 8
 Result: 16
 ```
 
-## Diagram
-![Socket Communication](path/to/image.png)
-
 ## Installation and Usage
 1. Clone this repository:
    ```sh
